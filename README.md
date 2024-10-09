@@ -1,17 +1,23 @@
-# hello_world_counter
+# Hello World Counter
 
-A new Flutter project.
+Este es un proyecto de inicio en Flutter que implementa una aplicación simple de contador.
 
-## Getting Started
+## Descripción
 
-This project is a starting point for a Flutter application.
+La aplicación tiene tres botones principales:
 
-A few resources to get you started if this is your first Flutter project:
+- **Más (+)**: Incrementa el contador en 1.
+- **Menos (-)**: Decrementa el contador en 1.
+- **Refresh**: Restablece el contador a 0.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## Capturas de Pantalla
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
-# CounterScreenFlutter
+![Captura de Pantalla](assets/screenshots/screenshot.png) <!-- Asegúrate de tener una captura de pantalla en esta ruta -->
+
+## Instalación
+
+1. **Clona el repositorio:**
+
+   ```sh
+   git clone https://github.com/tu_usuario/hello_world_counter.git
+   cd hello_world_counter
